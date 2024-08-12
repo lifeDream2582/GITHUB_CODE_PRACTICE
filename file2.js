@@ -1,1 +1,1 @@
-console.log('check reseting the commit file number-2.');
+console.log('check reseting the commit file number2.');
